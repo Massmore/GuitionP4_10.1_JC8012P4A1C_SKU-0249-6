@@ -3,11 +3,18 @@
 ESP32-P4 + ESP32-C6 10.1-inch IPS capacitive touch display module (800 × 1280) with camera, microphone, speaker and battery connector.
 จอทัชสกรีน ESP32-P4 ขนาด 10.1 นิ้ว พร้อมกล้อง ไมโครโฟน ลำโพง และขั้วต่อแบตเตอรี่
 
-<p align="center">
-  <img src="3-Structure_Diagram/1.jpg" alt="JC8012P4A1C front and dimensions" width="32%">
-  <img src="3-Structure_Diagram/2.jpg" alt="JC8012P4A1C internal interfaces" width="32%">
-  <img src="3-Structure_Diagram/3.png" alt="JC8012P4A1C back cover" width="32%">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="3-Structure_Diagram/1.jpg" alt="JC8012P4A1C front and dimensions" height="280"></td>
+    <td align="center"><img src="3-Structure_Diagram/2.jpg" alt="JC8012P4A1C internal interfaces" height="280"></td>
+    <td align="center"><img src="3-Structure_Diagram/3.png" alt="JC8012P4A1C back cover" height="280"></td>
+  </tr>
+  <tr>
+    <td align="center">Front &amp; Dimensions</td>
+    <td align="center">Internal Interfaces</td>
+    <td align="center">Back Cover</td>
+  </tr>
+</table>
 
 ## Specifications / สเปค
 
